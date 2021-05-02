@@ -1,0 +1,13 @@
+sex,n,pct,popu,age,popu_no_vacc
+Female,176766,22.1,800181,16 and older,623415
+Male,127374,15.7,809896,16 and older,682522
+Unknown/Other,135,,,16 and older,
+Female,48478,62.2,77891,75 and older,29413
+Male,36697,63.6,57738,75 and older,21041
+Unknown/Other,21,,,75 and older,
+Female,50760,55.6,91353,65 to 74,40593
+Male,43740,52.6,83151,65 to 74,39411
+Unknown/Other,26,,,65 to 74,
+Female,99238,58.6,169244,65 and older,70006
+Male,80437,57.1,140889,65 and older,60452
+Unknown/Other,47,,,65 and older,
