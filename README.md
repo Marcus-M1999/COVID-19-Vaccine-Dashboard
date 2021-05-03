@@ -1,4 +1,5 @@
-#COVID-19 Vaccine Dashboard
+COVID-19 Vaccine Dashboard
+======
 
 ##Summary
 
