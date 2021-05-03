@@ -30,7 +30,7 @@ How our Solution works
 ##### 1.) Download or view our workbook
 You can download our Tableau workbook from our Tableau public link [here](https://public.tableau.com/profile/stanford.anwar?fbclid=IwAR0JHYLfXN40Y7VxUU4FyNybsEStLSTzJkAd-_l7VAkidHWNvy25Jz3dRB8#!/vizhome/COVID-19DashboardFinal/StatewideGeneralCaseStatistics). If you do not wish to download the workbook you can look at it through the Tableau public website instead.
 
-##### 2.) lone our Github Repository
+##### 2.) Clone our Github Repository
 Clone our repository found [here](https://github.com/Marcus-M1999/COVID-19-Vaccine-Dashboard.git). This will give you access to all of the datasets we used in creating this dashboard, and allow you to edit the dashboard.
 
 ##### 3.) Download Tableau (optional)
