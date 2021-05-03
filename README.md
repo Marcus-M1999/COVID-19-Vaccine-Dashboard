@@ -25,7 +25,8 @@ We used Tableau as the main tool to show our analysis because it allowed us to s
 ##### 4.) Blogging
 As we were nearing the end of our project we decided to create a blog to document our experiences in the class and any surprising discoveries. We hope that the blog will inspire future students and users of the dashboard to make improvements by blogging their discoveries.
 
-##How our Solution works
+How our Solution works
+-------
 ##### 1.) Download or view our workbook
 You can download our Tableau workbook from our Tableau public link [here](https://public.tableau.com/profile/stanford.anwar?fbclid=IwAR0JHYLfXN40Y7VxUU4FyNybsEStLSTzJkAd-_l7VAkidHWNvy25Jz3dRB8#!/vizhome/COVID-19DashboardFinal/StatewideGeneralCaseStatistics). If you do not wish to download the workbook you can look at it through the Tableau public website instead.
 
