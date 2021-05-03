@@ -1,10 +1,13 @@
 #COVID-19 Vaccine Dashboard
+
 ##Summary
+
 Everything changed when COVID-19 Pandemic began. After spending billions of dollars over a year we were finally able to develop and test COVID-19 Vaccines, we were finally able to release them in mass to the public. This was only the beginning, however, as now we have to distribute the vaccines to millions of people. This prompted us to ask the following questions: How do we know if the Vaccine is being distributed equitably? How can we improve the efficiency of the vaccine supply chains? How can policymakers, vaccine distributors, and others without a technical background discover this information?
 
 To answer these questions we created our COVID-19 Vaccine dashboard. Through analyzing data from various sources including the California COVID-19 tracker, Carnegie Mellon, and numerous county-level resources we were able to uncover several interesting patterns in the data and visualize them in an easy-to-understand Tableau dashboard. Since we conducted our analysis through python and Tableau all of our materials are open source and publicly available to use and improve upon. We hope that our dashboard will prove useful to professionals and amateurs alike in informing them on the inequities in vaccine distribution and inspire solutions to be created.
 
 ##Project Components
+
 ##### 1.) Data collection
 We began to collect data at various levels, however after discussing and reinventing our dashboard we decided to collect county-level data for the following reasons: it was available, it was at a low enough level to show trends while being statistically significant and without normalizing the data and losing the trends. Once we decided on the level of data to collect we had to decide on the kind of visualizations to make. We planned on having multiple heatmaps to show the vaccination rates in comparison to other factors such as race, gender, and education.
 
