@@ -35,5 +35,5 @@ Clone our repository found [here](https://github.com/Marcus-M1999/COVID-19-Vacci
 
 ##### 3.) Download Tableau (optional)
 If you want to use tableau in the workbook then you need to have it installed. Once Tableau is downloaded make sure to connect the data source to all of the CSV files in the Final Dashboard folder in Github. Skip this step if you just want to look at our dashboard through Tableau public.
-##### 3.) Making changes
+##### 4.) Making changes
 You can make changes to any of the sheets in the Tableau workbook by clicking on the sheets at the bottom of the Tableau window and editing the visualizations. In addition, you can connect additional data sources if there is other data you wish to analyze. We encourage you to play around with the workbook and publish your results with a summary of any interesting information you found in the process. 
