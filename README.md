@@ -36,4 +36,63 @@ Clone our repository found [here](https://github.com/Marcus-M1999/COVID-19-Vacci
 ##### 3.) Download Tableau (optional)
 If you want to use tableau in the workbook then you need to have it installed. Once Tableau is downloaded make sure to connect the data source to all of the CSV files in the Final Dashboard folder in Github. Skip this step if you just want to look at our dashboard through Tableau public.
 ##### 4.) Making changes
-You can make changes to any of the sheets in the Tableau workbook by clicking on the sheets at the bottom of the Tableau window and editing the visualizations. In addition, you can connect additional data sources if there is other data you wish to analyze. We encourage you to play around with the workbook and publish your results with a summary of any interesting information you found in the process. 
+You can make changes to any of the sheets in the Tableau workbook by clicking on the sheets at the bottom of the Tableau window and editing the visualizations. In addition, you can connect additional data sources if there is other data you wish to analyze. We encourage you to play around with the workbook and publish your results with a summary of any interesting information you found in the process.
+
+File Hierarchy
+-------
+Our file structure is broken down below:
+Collab Workbook
+This folder contains our google collab notebooks in the form of a jupyter notebook file. The following files are included in this folder:
+Data Cleaning(Delphi).ipynb
+Data Cleaning (Race).ipynb
+Data Cleaning + EDA.ipynb
+
+Final Dashboard
+This folder contains all of the necessary files to download and run our Collab notebook, including the CSV files and Tableau workbook files.
+Final Dashboard.twbx
+VEM.csv
+Age_time_cleaned.csv
+Norm.csv
+Race_timeseries.twb
+Timeseries_cleaned.csv
+
+##### Data
+The data folder contains our data files in the following sub folders:
+
+#####Alameda
+This folder contains the following files:
+
+    - Alameda_County.csv
+##### Santa Clara County
+This folder contains the following files:
+
+    - Deaths_with_COVID-19_by_race_ethnicity.csv
+    - Deaths_with_COVID-19_by_gender.csv
+    - Deaths_with_COVID-19_by_age_group.csv
+    - COVID-19_vaccinations_among_county_residents_by_gender.csv
+    - COVID-19_testing_by_date.csv
+    - COVID-19_cases_by_method_of_transmission.csv
+    - COVID-19_cases_by_gender.csv
+    - COVID-19_cases_by_city_of_residence.csv
+    - COVID-19_cases__tests_and_positivity_rate_over_time_by_zip_code.csv
+    - Count_of_deaths_with_COVID-19_by_date.csv
+##### Statewide
+This folder contains the following files:
+
+    - Ab5df872-5a84-4839-9199-f0174239e4e6.csv
+    - c341576f-90d2-41ec-bdb1-a4e69f40e6a3 (2).csv
+    - Cases_by_age_group.csv
+    - Cases_by_race_ethnicity__all_age_groups.csv
+    - Cases_by_sex__all_age_groups.csv
+    - Covid19_vaccinations_in_long_term_care_facilities.csv
+    - Covid19_vaccinations_in_the_united_states.csv
+    - COVID-19_Vaccine_Distribution_Allocations_by_Jurisdiction_-_Moderna.csv
+    - COVID-19_Vaccine_Distribution_Allocations_by_Jurisdiction_-_Pfizer.csv
+    - Covid19vaccinesbycountybydemographic.csv
+    - Deaths_by_age_group.csv
+    - Deaths_by_race_ethnicity__all_age_groups.csv
+    - Deaths_by_sex__all_age_groups.csv
+    - Gender_data.csv
+    - odp_hcp_flu_vaccination_by_county_2018-19_season_final (1).csv
+    - Road Condition.csv
+
