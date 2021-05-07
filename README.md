@@ -65,7 +65,7 @@ This folder contains our Google Collab notebooks in the form of a jupyter notebo
 Final Dashboard
 This folder contains all of the necessary files to download and run our Collab notebook, including the CSV files and Tableau workbook files.
 
-    - Final Dashboard.twbx
+    - COVID-19 Dashboard Final.twb
     - VEM.csv
     - Age_time_cleaned.csv
     - Norm.csv
