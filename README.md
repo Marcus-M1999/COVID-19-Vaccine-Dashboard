@@ -76,7 +76,7 @@ This folder contains all of the necessary files to download and run our Collab n
 ##### Data
 The data folder contains our data files in the following sub folders:
 
-#####Alameda
+##### Alameda
 This folder contains the following files:
     
     - Alameda_County.csv
